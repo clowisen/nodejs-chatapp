@@ -1,5 +1,5 @@
 # nodejs-chatapp
-# Room Chat Application with NodeJS and Socket.io 
+ Room Chat Application with NodeJS and Socket.io 
 
 # Technologies used
 
