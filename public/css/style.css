@@ -1,0 +1,106 @@
+.form{
+    max-width: 300px;
+    margin: auto;
+    padding: 30px;
+    margin-top: 200px;
+    text-align: center;
+    background-color: #8b2323;
+    border-radius: 5px;
+}
+
+.chatapp{
+    color: whitesmoke;
+    font-size: 40px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.join-button{
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+}
+
+.join-button:hover{
+    background-color: #ffdede;
+}
+
+.chat{
+    max-width: 600px;
+    background-color: #8b2323;
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.chat-tab{
+    height: 300px;
+    background-color: #cd3333;
+    margin: auto;
+    width: 98%;
+    overflow: auto;
+    padding: 15px;
+}
+
+.error{
+    display: none;
+}
+
+.room-name{
+    color: whitesmoke;
+    margin-left: 5px;
+}
+
+.message{
+    width: 98%;
+    margin-left: 5px;
+    border: none;
+    margin-top: 10px;
+    text-indent: 5px;
+    background-color: #cd3333;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.message:focus{
+    outline: none;
+}
+
+.send-button{
+    width: 100%;
+    padding: 5px;
+    border: none;
+    background-color: #cd3333 ;
+    margin-top: 10px;
+    color: whitesmoke;
+    border-radius: 8px;
+}
+
+.exit-button{
+    color: white;
+    float: right;
+    background: none;
+    border: none;
+}
+
+.exit-button:hover{
+    color: #ff4040;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+
+::-webkit-scrollbar-track {
+    background: #ff6a6a; 
+  }
+
+::-webkit-scrollbar-thumb {
+    background: #8b1a1a; 
+  }
+
+::placeholder{
+    color: whitesmoke;
+}
