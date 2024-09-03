@@ -4,7 +4,7 @@
 # Technologies used
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,mongodb,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,nodejs,express"/>
   </a>
 
 # Setup
